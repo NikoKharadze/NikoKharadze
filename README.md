@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niko</h1>
 <h3 align="center">A passionate Software Engineer from Georgia</h3>
 
-- 🔭 I’m currently working on **Mafia Game website**
+- 🔭 I’m currently working on **AI Biomechanical Feedback Engine**
 
 - 🌱 I’m currently learning **Java, Python, HTML 5, CSS, JavaScript**
 
